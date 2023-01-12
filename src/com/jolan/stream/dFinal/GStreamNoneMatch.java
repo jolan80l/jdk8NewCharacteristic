@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * noneMatch:判断是否都不符合条件。如果不符合结果为true，否则为false
+ * @author jolan
+ * @date 2023-01-09
  */
 public class GStreamNoneMatch {
     public static void main(String[] args) {

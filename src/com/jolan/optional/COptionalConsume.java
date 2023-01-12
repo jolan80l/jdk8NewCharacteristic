@@ -6,6 +6,8 @@ import java.util.Optional;
 
 /**
  * 消费Optional中的对象
+ * @author jolan
+ * @date 2023-01-09
  */
 public class COptionalConsume {
     public static void main(String[] args) {

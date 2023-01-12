@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * count：获取当前流中元素的个数
+ * @author jolan
+ * @date 2023-01-09
  */
 public class BStreamCount {
     public static void main(String[] args) {

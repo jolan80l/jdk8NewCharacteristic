@@ -11,6 +11,8 @@ import java.util.stream.Stream;
 
 /**
  * min&max:获取流中的最大值或最小值
+ * @author jolan
+ * @date 2023-01-09
  */
 public class CStreamMinAndMax {
     public static void main(String[] args) {

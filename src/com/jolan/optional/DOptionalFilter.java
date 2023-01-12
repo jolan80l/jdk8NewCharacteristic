@@ -6,6 +6,8 @@ import java.util.Optional;
 
 /**
  * 使用Optional的filter方法进行过滤，如果原本有数据，但是不符合判断，也会变为一个无数据的Optional对象
+ * @author jolan
+ * @date 2023-01-09
  */
 public class DOptionalFilter {
     public static void main(String[] args) {

@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * anyMatch:可以用判断是否任务符合匹配条件的元素，结果为boolean你类型
+ * @author jolan
+ * @date 2023-01-09
  */
 public class EStreamAnyMatch {
     public static void main(String[] args) {

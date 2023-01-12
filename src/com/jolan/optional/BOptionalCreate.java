@@ -7,6 +7,8 @@ import java.util.Optional;
 
 /**
  * Optional就像是包装类，把具体的数据封装到Optional对象内部。在使用Optional封装好的方法就能很优雅的避免空指针异常
+ * @author jolan
+ * @date 2023-01-09
  */
 public class BOptionalCreate {
     public static void main(String[] args) {

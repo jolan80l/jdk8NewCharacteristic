@@ -11,6 +11,8 @@ import java.util.stream.Collectors;
 
 /**
  * collect：把流转换为集合
+ * @author jolan
+ * @date 2023-01-09
  */
 public class DStreamCollect {
     public static void main(String[] args) {

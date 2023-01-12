@@ -7,6 +7,8 @@ import java.util.List;
 
 /**
  * allMatch:可以用来判断是否符合匹配条件，结果为boolean类型。如果符合结果为true，否则结果为false
+ * @author jolan
+ * @date 2023-01-09
  */
 public class FStreamAllMatch {
     public static void main(String[] args) {

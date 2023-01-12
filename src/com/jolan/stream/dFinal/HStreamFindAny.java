@@ -8,6 +8,8 @@ import java.util.Optional;
 
 /**
  * findAny:获取流中任意一个元素，该方法没有办法保证获取的是流中的第一个元素
+ * @author jolan
+ * @date 2023-01-09
  */
 public class HStreamFindAny {
     public static void main(String[] args) {

@@ -5,6 +5,8 @@ import com.jolan.stream.aExample.StreamDemo;
 
 /**
  * JDK8中引入了Optional来优雅的解决空指针的问题
+ * @author jolan
+ * @date 2023-01-09
  */
 public class AOptionalDemo {
     public static void main(String[] args) {

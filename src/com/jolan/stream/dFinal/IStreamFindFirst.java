@@ -8,6 +8,8 @@ import java.util.Optional;
 
 /**
  * findFirst:找到流中的第一个元素
+ * @author jolan
+ * @date 2023-01-09
  */
 public class IStreamFindFirst {
     public static void main(String[] args) {
